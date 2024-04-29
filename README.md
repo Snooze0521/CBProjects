@@ -1,5 +1,3 @@
 # CBProjects
 
-This is a placeholder readme file.
-
-www.cypressbase.com
+This is a repo for Cypress Base (www.cypressbase.com) projects.
